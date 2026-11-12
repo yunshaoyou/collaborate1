@@ -1,0 +1,9 @@
+# 编译输出
+target/
+# IDEA 个人配置
+.idea/workspace.xml
+.idea/tasks.xml
+# 日志
+*.log
+# 系统文件
+.DS_Store
